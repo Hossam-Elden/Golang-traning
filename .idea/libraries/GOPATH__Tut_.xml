@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;Tut&gt;">
+    <CLASSES>
+      <root url="file://G:/repos/GoLang/src/gopkg.in" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://G:/repos/GoLang/src/gopkg.in" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
